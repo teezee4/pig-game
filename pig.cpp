@@ -1,6 +1,5 @@
 // pig.cpp
 // Taha Zeeshan
-// 01/29/2022
 
 #include <iostream>
 #include <cmath>
